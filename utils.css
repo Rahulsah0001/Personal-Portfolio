@@ -1,0 +1,22 @@
+.purple {
+  color: rgb(131, 77, 183);
+}
+.text-gray {
+  color: gray;
+}
+.top {
+  font-size: 1.3rem;
+  position: relative;
+  top: 10px;
+  left: 13px;
+  width: 130px;
+}
+.shrink{
+    width: 63%;
+    margin: auto;
+}
+.text-centre{
+  text-align: center;
+  margin: -20px ;
+  padding-bottom: 10px;
+}
